@@ -1,0 +1,9 @@
+[submodule "test/third_party/sha-2"]
+	path = test/third_party/sha-2
+	url = https://github.com/amosnier/sha-2.git
+[submodule "test/third_party/BLAKE2"]
+	path = test/third_party/BLAKE2
+	url = https://github.com/BLAKE2/BLAKE2.git
+[submodule "test/third_party/libbase58"]
+	path = test/third_party/libbase58
+	url = https://github.com/bitcoin/libbase58.git
